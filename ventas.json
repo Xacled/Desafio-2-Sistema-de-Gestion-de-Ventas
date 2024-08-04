@@ -1,0 +1,24 @@
+[
+    {
+        "fecha": "2024-07-24",
+        "cliente": "Jose",
+        "productos": [
+            "bizcochos",
+            "arroz",
+            "jamon"
+        ],
+        "idproducto": 111,
+        "tipo": "Online",
+        "direccion_envio": "45 mayo"
+    },
+    {
+        "fecha": "2024-07-24",
+        "cliente": "Juan",
+        "productos": [
+            "Desodorante"
+        ],
+        "idproducto": 102,
+        "tipo": "Local",
+        "tienda": "25mayo"
+    }
+]
